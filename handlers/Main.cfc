@@ -1,0 +1,1 @@
+﻿component {	function badPage(event, rc, prc) {		// This line of code will error. Naughty programmer...		foo = bar;		  	}	// Default Action	function index(event, rc, prc) {		// The view "/views/Main/index.cfm" will be run by convention  	}}
